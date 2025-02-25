@@ -21,4 +21,3 @@
 | ----------- | --------------------------------------------------------- |
 | StarVoyager | [StarVoyager](https://github.com/hosizoraru/StarVoyager)  |
 | ezXHelper   | [ezXHelper](https://github.com/KyuubiRan/EzXHelper)       |
-| DexKit      | [DexKit](https://github.com/LuckyPray/DexKit)             |
